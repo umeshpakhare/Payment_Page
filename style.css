@@ -1,0 +1,11 @@
+
+.scanner img{
+    height: 325px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 32%;
+    background-color: rgb(2, 8, 23);
+    border-radius: 5px;
+    margin-top: 80px;
+}
